@@ -8,6 +8,6 @@ permalink: /donate/
 
 **或者您只是单纯喜欢我这个人，也可以给我捐助，谢谢。**
 
-<img src="{{ "/assets/img/alipay.jpg" | relative_url }}" alt="支付宝" width="390" height="100%"/>
+<img src="{{ "/assets/img/alipay.jpg" | relative_url }}" alt="支付宝" width="390"/>
 
-<img src="{{ "/assets/img/wechatpay.jpg" | relative_url }}" alt="微信" width="390" height="100%"/>
+<img src="{{ "/assets/img/wechatpay.jpg" | relative_url }}" alt="微信" width="390"/>
