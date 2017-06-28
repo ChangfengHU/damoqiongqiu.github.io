@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "测试中文标题"
+date:   2017-06-28 12:26:29 +0800
+categories: jekyll update
+---
+测试中文标题行不行。
