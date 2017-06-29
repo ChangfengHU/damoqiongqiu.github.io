@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .bd-navbar .navbar-nav .nav-link {
   color: #8e869d; }
   .bd-navbar .navbar-nav .nav-link.active, .bd-navbar .navbar-nav .nav-link:hover, .bd-navbar .navbar-nav .nav-link:focus {
@@ -8,6 +9,12 @@
     color: #040404; }
 .bd-navbar .dropdown-menu {
   font-size: inherit; }
+
+body {
+  font-family: "Microsoft Yahei","微软雅黑",SimSun,sans-serif; }
+
+input, label, select, option, textarea, button, fieldset, legend {
+  font-family: "Microsoft Yahei","微软雅黑",SimSun,sans-serif; }
 
 .main-container {
   padding-top: 70px;

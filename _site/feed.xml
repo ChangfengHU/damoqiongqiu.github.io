@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-28T18:47:23+08:00</updated><id>http://localhost:4000/</id><title type="html">大漠穷秋的文章</title><subtitle></subtitle><entry><title type="html">建一个简单的blog</title><link href="http://localhost:4000/jekyll/update/2017/06/28/%E6%B5%8B%E8%AF%95%E4%B8%AD%E6%96%87%E6%A0%87%E9%A2%98.html" rel="alternate" type="text/html" title="建一个简单的blog" /><published>2017-06-28T12:26:29+08:00</published><updated>2017-06-28T12:26:29+08:00</updated><id>http://localhost:4000/jekyll/update/2017/06/28/%E6%B5%8B%E8%AF%95%E4%B8%AD%E6%96%87%E6%A0%87%E9%A2%98</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/28/%E6%B5%8B%E8%AF%95%E4%B8%AD%E6%96%87%E6%A0%87%E9%A2%98.html">&lt;p&gt;建一个简单的blog用来放静态内容。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-29T13:25:28+08:00</updated><id>http://localhost:4000/</id><title type="html">大漠穷秋的主页</title><subtitle></subtitle><entry><title type="html">炮灰都不如，我们如何看待大学计算机教育</title><link href="http://localhost:4000/jekyll/update/2017/06/29/%E7%82%AE%E7%81%B0%E9%83%BD%E4%B8%8D%E5%A6%82%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E8%82%B2.html" rel="alternate" type="text/html" title="炮灰都不如，我们如何看待大学计算机教育" /><published>2017-06-29T13:01:29+08:00</published><updated>2017-06-29T13:01:29+08:00</updated><id>http://localhost:4000/jekyll/update/2017/06/29/%E7%82%AE%E7%81%B0%E9%83%BD%E4%B8%8D%E5%A6%82%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E8%82%B2</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/29/%E7%82%AE%E7%81%B0%E9%83%BD%E4%B8%8D%E5%A6%82%E6%88%91%E4%BB%AC%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E8%82%B2.html">&lt;p&gt;【这篇文章首先发在掘金平台上面，看起来反向比较大，有很多赞，也有很多踩的。所以，我把这篇文章也备存到这里来。】&lt;/p&gt;
+
+&lt;p&gt;（评论里面有一大块是关于简历造假的，很抱歉没法一一回复，补两个小段集中回复。同时做了一点编辑，改掉几个错字和不通顺的地方。）&lt;/p&gt;
+
+&lt;p&gt;dsh0416写了一篇文章，标题是《量产型炮灰工程师》，对培训班出来的同学做了一些评论，原文在这里https://ruby-china.org/topics/33036 ，对于dsh0416说的一些内容，我不太同意，写一点自己的想法，仅供参考。
+大学计算机教育问题很大&lt;/p&gt;
+
+&lt;p&gt;培训班能存在一定有它自己的理由，仅仅吐槽是没有用的，以我有限的见识，大概总结了这么几个原因：&lt;/p&gt;
+
+&lt;p&gt;培训班存在的理由一：大学计算机教育与真实的软件产业之间存在巨大的鸿沟。如果说培训班是“量产型炮灰”的话，那么现在的大学教育甚至连炮灰都无法生产。以目前市场需求量比较大的前端开发为例，请问国内有几所大学开设了JavaScript和CSS课程？&lt;/p&gt;
+
+&lt;p&gt;培训班存在的理由二：如何保持终生学习的问题。有很多道友告诉我，大学毕业之后基本上就不看书了，因为没时间也没环境。而那种所谓的“高端培训班”，实际上更多的是提供了一个离开学校之后的环境而已。&lt;/p&gt;
+
+&lt;p&gt;培训班存在的理由三：学习效率的问题。很多做技术的道友成家立业有小孩之后，生活中的各种繁琐事情占据了大量时间。现在各种技术更新换代这么快，分工这么细致，如果全部靠自己一点一点去啃，根本没时间，这是无法抗拒的现实，就算天天吐槽也没法改变。俗话说，师傅领进门，修行在个人。如果刚好碰上了一个好的“师傅”，你能节约大量的时间，这一点想必各位道友自己都有体会的。所以，从这个角度，如果真的有好的培训班，我自己是会去听的。
+他们没得选择&lt;/p&gt;
+
+&lt;p&gt;毕业了，有人出国、有人考研、有人考公务员、有人回老家继承产业……但是，那些什么都没有的人，他们怎么办？&lt;/p&gt;
+
+&lt;p&gt;他们家庭条件不好；&lt;/p&gt;
+
+&lt;p&gt;他们的学校不是985、211；&lt;/p&gt;
+
+&lt;p&gt;他们没学过数据结构、操作系统、计算机网络；&lt;/p&gt;
+
+&lt;p&gt;他们甚至连自己的专业知识也学得不好（很多大学老师本身就是垃圾）；&lt;/p&gt;
+
+&lt;p&gt;那么，这些人怎么办？去街上流浪乞讨？&lt;/p&gt;
+
+&lt;p&gt;很多时候，他们没得选。万般皆是命，半点不由人。
+一个相对公平的行业&lt;/p&gt;
+
+&lt;p&gt;我的上一家公司，有一年开产品发布会，公司CEO说过一段话，大体的意思是这样的：软件开发是一个相对公平的行业，它不看你的家庭背景，你会就是会，不会就是不会。如果你不会，就算你爹是李刚那也不行。这个行业是为数不多的，相对公平的行业，穷人家的孩子在这里还能找到一些机会。&lt;/p&gt;
+
+&lt;p&gt;这些年，我一直记得这段话。
+别担心，市场自己有淘汰机制&lt;/p&gt;
+
+&lt;p&gt;dsh0416提到的那些情况确实是客观存在的，但是请不要忘记，用人单位不是傻子，市场自己会把这些人淘汰出局的。如果真的碰到dsh0416文中所说的那种不堪的状况，那些人肯定过不了试用期。&lt;/p&gt;
+
+&lt;p&gt;另一个角度，并不是所有的企业都能用得起大牛。培训班出来的同学，依然有自己的市场价值。就算只学会了如何使用IDE，就算只学了一些基本概念，也比从学校出来啥都不懂要强很多。&lt;/p&gt;
+
+&lt;p&gt;所以，别担心，市场自己有淘汰机制，那些确实很差劲的家伙，市场会把TA淘汰出局的。
+简历造假和培训班没有必然联系&lt;/p&gt;
+
+&lt;p&gt;简历造假是非常可耻的一件事，而且是整个职业生涯中的巨大污点，无论是不是培训班出来的同学，都不能踩这条红线。&lt;/p&gt;
+
+&lt;p&gt;但是，简历造假和培训班，这两件事没有必然联系。就我所知，很多不是培训班出来的人，也搞假简历。&lt;/p&gt;
+
+&lt;p&gt;所以，企图把这两件事进行强相关，没有任何道理。那样做，只不过是你自己为了秀优越感而导致的归因偏差。
+培训班那么多，IT培训班存在是正常的&lt;/p&gt;
+
+&lt;p&gt;社会上有各种各样的培训班，小孩学钢琴要去上培训班、健身瑜伽要去上培训班，最典型的，还有各种考研的培训班。请问考过研的同学，有几位敢全部靠自己自学，一个班也不报的？&lt;/p&gt;
+
+&lt;p&gt;为什么这么多培训班，单单就把IT培训班说成是“量产炮灰”？&lt;/p&gt;
+
+&lt;p&gt;如果硬要这么说，让考研培训班的同学怎么想？&lt;/p&gt;
+
+&lt;p&gt;这两年“知识付费”的概念很火，培训班只是“知识付费”的一种带实体的形式而已。往大了说，那么多MOOC教程、技术交流会，本质上都可以看成“知识付费”。
+大学教育与现实的软件产业之间差一个培训班&lt;/p&gt;
+
+&lt;p&gt;总体上说，国内大学的计算机教育比培训班更烂。&lt;/p&gt;
+
+&lt;p&gt;看看大学里面那些教材，好多学校十多年都没改过教材吧？好多计算机老师教学N多年，自己都不会写快速排序吧？这种教育状况既没法打牢基础，也不能提供实战技能。&lt;/p&gt;
+
+&lt;p&gt;4年的青春年华，买张没用的废纸，至少培训班花的时间少一点。
+都是出来卖的，谁也别看不起谁&lt;/p&gt;
+
+&lt;p&gt;在市场经济里面，每个人本质上都是商人，你要拿出你的时间或者产品，甚至是你的身体去和别人做交换。说直白一点，都是出来卖的，谁也别看不起谁。&lt;/p&gt;
+
+&lt;p&gt;天地不仁，万物竞发。无论你是谁，无论你在哪里，无论你是怎么走上这条道路的，只要你凭借自己的力量获得市场的认可，我都对你表达敬意。&lt;/p&gt;
+
+&lt;p&gt;愿你日日精进，前途无量！&lt;/p&gt;
+
+&lt;p&gt;（欢迎转载，保持“大漠穷秋”的署名即可。）&lt;/p&gt;</content><author><name>大漠穷秋</name></author><summary type="html">【这篇文章首先发在掘金平台上面，看起来反向比较大，有很多赞，也有很多踩的。所以，我把这篇文章也备存到这里来。】</summary></entry><entry><title type="html">建一个简单的blog</title><link href="http://localhost:4000/jekyll/update/2017/06/28/%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84Blog.html" rel="alternate" type="text/html" title="建一个简单的blog" /><published>2017-06-28T12:26:29+08:00</published><updated>2017-06-28T12:26:29+08:00</updated><id>http://localhost:4000/jekyll/update/2017/06/28/%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84Blog</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/28/%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84Blog.html">&lt;p&gt;建一个简单的blog用来放静态内容。&lt;/p&gt;
 
 &lt;p&gt;建一个简单的blog用来放静态内容。&lt;/p&gt;
 
