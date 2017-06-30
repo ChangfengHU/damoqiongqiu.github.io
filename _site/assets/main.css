@@ -10,6 +10,13 @@
 .bd-navbar .dropdown-menu {
   font-size: inherit; }
 
+.post .post-title {
+  font-weight: bold; }
+.post .post-content {
+  font-size: 18px; }
+.post p {
+  line-height: 2.27rem; }
+
 body {
   font-family: "Microsoft Yahei","微软雅黑",SimSun,sans-serif; }
 
