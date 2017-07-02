@@ -4,7 +4,7 @@ title:  "建一个简单的blog"
 author: "大漠穷秋"
 comments: true
 date:   2017-06-28 12:26:29 +0800
-categories: jekyll update
+categories: jekyll
 ---
 建一个简单的blog用来放静态内容。
 
