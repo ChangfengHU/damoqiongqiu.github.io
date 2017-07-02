@@ -37,3 +37,6 @@ gems:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# disqus settings
+disqus.shortname: damoqiongqiu
