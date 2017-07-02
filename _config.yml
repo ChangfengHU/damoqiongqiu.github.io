@@ -39,4 +39,5 @@ gems:
 #   - vendor/ruby/
 
 # disqus settings
-disqus.shortname: damoqiongqiu
+disqus:
+  shortname: damoqiongqiu
