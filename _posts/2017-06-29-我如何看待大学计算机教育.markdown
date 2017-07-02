@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "炮灰都不如，我如何看待大学计算机教育"
+title:  "我如何看待大学计算机教育"
 author: "大漠穷秋"
 comments: true
 date:   2017-06-29 13:01:29 +0800
