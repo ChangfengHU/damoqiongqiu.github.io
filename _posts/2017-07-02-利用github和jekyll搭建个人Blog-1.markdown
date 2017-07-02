@@ -7,7 +7,7 @@ date:   2017-07-02 15:35:29 +0800
 categories: jekyll
 ---
 
-1 前置知识
+1 <a href="http://damoqiongqiu.github.io/jekyll/2017/07/02/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-2.html">前置知识</a>
 
 2 配置开发环境
 
