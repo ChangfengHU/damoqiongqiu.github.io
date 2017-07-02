@@ -4,6 +4,10 @@ title: ""
 permalink: /about/
 ---
 
+如果您想雇佣我，请查看我的简历：<a href="{{ "/assets/pdf/zhangxiaofei.pdf" | relative_url }}" target="_blank">我的简历</a>
+
+**外包勿扰，猎头勿扰。**
+
 <img src="{{ "/assets/img/angular-damo/BIO-Angular.jpg" | relative_url }}" alt="讲课照片" width="100%" class="img-thumbnail rounded float-left"/>
 
 <img src="{{ "/assets/img/angular-damo/29.jpg" | relative_url }} " alt="讲课照片" width="100%" class="img-thumbnail rounded float-left"/>
