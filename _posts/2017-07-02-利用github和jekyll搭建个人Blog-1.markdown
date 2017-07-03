@@ -37,4 +37,4 @@ categories: jekyll
 
 &nbsp;&nbsp;&nbsp;&nbsp;4.4 利用_data目录存储数据
 
-（内容可能会多次修改，欢迎常来刷新。如果您觉得文章有用，请捐助我，让我做得更好<a href="http://127.0.0.1:4000/donate/index.html">给大漠捐助</a>）
+（内容可能会多次修改，欢迎常来刷新。如果您觉得文章有用，请捐助我，让我做得更好<a href="http://damoqiongqiu.github.io/donate/index.html">给大漠捐助</a>）
