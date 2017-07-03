@@ -29,7 +29,7 @@ git是一个“版本控制”工具。
 
 它就是一个普通的“软件”，你会装软件的，对不对？
 
-<img src="{{ "/assets/img/jekyll-3/git-setup" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-3/git-setup.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
 
 装好之后，打开你机器上的终端，Windows上叫“命令提示符”，在里面敲git试试，如果出现了这样的内容，说明安装成功了：
 
