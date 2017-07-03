@@ -1,6 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-02T16:41:11+08:00</updated><id>http://localhost:4000/</id><title type="html">大漠穷秋的主页</title><subtitle></subtitle><entry><title type="html">《利用github和jekyll搭建免费的个人Blog》1-前置知识</title><link href="http://localhost:4000/jekyll/2017/07/02/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-2.html" rel="alternate" type="text/html" title="《利用github和jekyll搭建免费的个人Blog》1-前置知识" /><published>2017-07-02T15:35:29+08:00</published><updated>2017-07-02T15:35:29+08:00</updated><id>http://localhost:4000/jekyll/2017/07/02/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-2</id><content type="html" xml:base="http://localhost:4000/jekyll/2017/07/02/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-2.html">&lt;p&gt;除了要会使用键盘和鼠标之外，这个小系列文章不需要您有任何其它任何前置知识。因此，即使您是文科生，也可以读懂并上手。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-03T08:55:51+08:00</updated><id>http://localhost:4000/</id><title type="html">大漠穷秋的主页</title><subtitle></subtitle><entry><title type="html">3-注册github账号并创建项目</title><link href="http://localhost:4000/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-4.html" rel="alternate" type="text/html" title="3-注册github账号并创建项目" /><published>2017-07-03T08:54:29+08:00</published><updated>2017-07-03T08:54:29+08:00</updated><id>http://localhost:4000/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-4</id><content type="html" xml:base="http://localhost:4000/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-4.html">&lt;p&gt;这颗星球上有一个神奇的网站叫&lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot;&gt;github&lt;/a&gt;，它是男人的乐园，女人的噩梦。这么好的网站，你一定想要一个账号对不对？&lt;/p&gt;
 
-&lt;p&gt;当然，如果您像我一样也是一个码农，那什么都不用解释了，快上车！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-4/github-register.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;注册成功之后Sign in（登录）进去，点击Your profile菜单到你自己的用户资料页去看看都有什么内容：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-4/github-yourprofile.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我目前的资料页是这样的：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-4/my-profile.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;好了，这一段不重要，只是给你show一下我的资料而已，万一有人想Follow我呢，对吧？&lt;/p&gt;
+
+&lt;p&gt;点击New Repository菜单，进入创建仓库界面，&lt;strong&gt;下面的内容请看仔细&lt;/strong&gt;：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-4/new-repo.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-4/repo-config.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我这里有错误提示，因为我已经创建过同名的仓库啦！&lt;/p&gt;
+
+&lt;p&gt;创建完成之后，进入项目主页，就像这样：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-4/my-repo.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;当然，我这儿已经有一些内容了，你的仓库里面这时候应该只有一个README.md文件，其它什么都没有才对。&lt;/p&gt;
+
+&lt;p&gt;下一步，用小乌龟把这个项目克隆到你本地去，在项目主页上点这里：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-4/clone-menu.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;然后在你的电脑里面任意选择一个目录用来放内容，在任意空白处右键，选择”Git clone”：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-4/git-clone.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;看到Success了不？说明克隆成功，这样仓库的内容就到你本地了：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-4/clone-success.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;接下来测试一下commit和push。&lt;/p&gt;
+
+&lt;p&gt;用你机器上的任意编辑器打开项目根目录下的README.md，如果没有这个文件，你可以手动创建一个，随意输入一些内容，然后在项目根目录里面任意空白处右键，选择Git commit-&amp;gt;”master”这个菜单，弹出以下界面：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-4/git-commit.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;commit完成之后，再次在空白处右键：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-4/git-push.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;操作完成之后，你刚才修改的内容就被push到仓库里面去啦！&lt;/p&gt;
+
+&lt;p&gt;不信？去你的项目主页上刷新一下，确认一下刚才的内容有没有进来。&lt;/p&gt;
+
+&lt;p&gt;现在，你可以打开你的主页看看有没有内容，http://你刚才注册的名字.github.io&lt;/p&gt;
+
+&lt;p&gt;当然，你也可以到项目的Settings菜单里面去设置一个theme（主题），然后刷新看看有没有效果。不过这个不重要，因为紧接下来我们会安装jekyll，到时候有更多样式可以选择。&lt;/p&gt;
+
+&lt;p&gt;（内容可能会多次修改，欢迎常来刷新。如果您觉得文章有用，请捐助我，让我做得更好&lt;a href=&quot;http://damoqiongqiu.github.io/donate/index.html&quot;&gt;给大漠捐助&lt;/a&gt;）&lt;/p&gt;</content><author><name>大漠穷秋</name></author><summary type="html">这颗星球上有一个神奇的网站叫github，它是男人的乐园，女人的噩梦。这么好的网站，你一定想要一个账号对不对？</summary></entry><entry><title type="html">2-安装git和小乌龟</title><link href="http://localhost:4000/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-3.html" rel="alternate" type="text/html" title="2-安装git和小乌龟" /><published>2017-07-03T07:35:29+08:00</published><updated>2017-07-03T07:35:29+08:00</updated><id>http://localhost:4000/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-3</id><content type="html" xml:base="http://localhost:4000/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-3.html">&lt;p&gt;什么是git？&lt;/p&gt;
+
+&lt;p&gt;卧槽，好吧…&lt;/p&gt;
+
+&lt;p&gt;git是一个“版本控制”工具。&lt;/p&gt;
+
+&lt;p&gt;什么是版本控制？&lt;/p&gt;
+
+&lt;p&gt;伙计，你看，这是一把菜刀对不对？它可以用来砍死你！&lt;/p&gt;
+
+&lt;p&gt;你自己去Google啊！&lt;/p&gt;
+
+&lt;p&gt;那怎么装git呢？&lt;/p&gt;
+
+&lt;p&gt;请点击&lt;a href=&quot;https://npm.taobao.org/mirrors/git-for-windows&quot; target=&quot;_blank&quot;&gt;git的淘宝镜像&lt;/a&gt;下载你需要的版本，建议安装最新版。&lt;strong&gt;注意，官方的下载源被Qiang掉了，如果你知道如何爬出去，可以去&lt;a href=&quot;https://git-scm.com/downloads&quot; target=&quot;_blank&quot;&gt;官方的源&lt;/a&gt;下载，界面儿好看点。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;如果你是新手，推荐直接下载这个exe文件：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-3/download-git.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;它就是一个普通的“软件”，你会装软件的，对不对？&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-3/git-setup&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;装好之后，打开你机器上的终端，Windows上叫“命令提示符”，在里面敲git试试，如果出现了这样的内容，说明安装成功了：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-3/cmd-git.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;可是我不喜欢这样的命令行界面啊！&lt;/p&gt;
+
+&lt;p&gt;那就对了，所以你需要小乌龟啊！&lt;/p&gt;
+
+&lt;p&gt;点击&lt;a href=&quot;https://download.tortoisegit.org/tgit/&quot; target=&quot;_blank&quot;&gt;这个链接&lt;/a&gt;，选择你需要的版本下载下来。它也是一个普通的“软件”，所以你会安装的，对不对？&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-3/tortoisegit-install.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tortoise的意思是“乌龟”，发音[ˈtɔrtəs]，知道为啥叫它“小乌龟”了不？因为它特么名字就是“乌龟”啊！&lt;/p&gt;
+
+&lt;p&gt;安装完小乌龟之后，在你的桌面的任意空白位置右键，你会看到多出来几个和小乌龟相关的菜单：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/jekyll-3/tortoise-menu.png&quot; alt=&quot;示例&quot; width=&quot;100%&quot; class=&quot;img-thumbnail rounded float-left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;这就说明git和小乌龟都安装成功了！&lt;/p&gt;
+
+&lt;p&gt;（内容可能会多次修改，欢迎常来刷新。如果您觉得文章有用，请捐助我，让我做得更好&lt;a href=&quot;http://damoqiongqiu.github.io/donate/index.html&quot;&gt;给大漠捐助&lt;/a&gt;）&lt;/p&gt;</content><author><name>大漠穷秋</name></author><summary type="html">什么是git？</summary></entry><entry><title type="html">1-前置知识</title><link href="http://localhost:4000/jekyll/2017/07/02/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-2.html" rel="alternate" type="text/html" title="1-前置知识" /><published>2017-07-02T15:35:29+08:00</published><updated>2017-07-02T15:35:29+08:00</updated><id>http://localhost:4000/jekyll/2017/07/02/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-2</id><content type="html" xml:base="http://localhost:4000/jekyll/2017/07/02/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-2.html">&lt;p&gt;除了要会使用键盘和鼠标之外，这个小系列文章不需要您有任何其它任何前置知识。因此，即使您是文科生，也可以读懂并上手。&lt;/p&gt;
+
+&lt;p&gt;当然，如果您像我一样也是一个码农，那什么都不用解释了，你自己选择想看的内容跳着看吧！&lt;/p&gt;
 
 &lt;p&gt;有人会问，市面上有很多可以写作的平台，为什么要费力搭建个人blog呢？&lt;/p&gt;
 
@@ -14,7 +116,7 @@
     &lt;p&gt;别人的平台毕竟是别人的，你可能像我一样，想要一个能自己随意定义的写作空间。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;最后的愿意，这是完全免费的，你不需要花钱买域名和空间，这一点对于比较缺钱的朋友来说很重要不是吗？&lt;/p&gt;
+    &lt;p&gt;最后的原因，这是完全免费的，你不需要花钱买域名和空间，这一点对于比较缺钱的朋友来说很重要不是吗？&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -22,13 +124,13 @@
 
 &lt;p&gt;2 配置开发环境&lt;/p&gt;
 
-&lt;p&gt;    2.1 注册github&lt;/p&gt;
+&lt;p&gt;    2.1 &lt;a href=&quot;http://damoqiongqiu.github.io/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-3.html&quot;&gt;安装git和小乌龟&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;    2.2 安装git和小乌龟&lt;/p&gt;
+&lt;p&gt;    2.2 &lt;a href=&quot;http://damoqiongqiu.github.io/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-4.html&quot;&gt;注册github账号并创建项目&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;    2.3 安装Jekyll&lt;/p&gt;
 
-&lt;p&gt;    2.4 关于代码编辑器&lt;/p&gt;
+&lt;p&gt;    2.4 选择一款你喜欢的Markdown编辑器&lt;/p&gt;
 
 &lt;p&gt;3 基本玩法&lt;/p&gt;
 
@@ -42,9 +144,11 @@
 
 &lt;p&gt;    4.1 定制自己的样式&lt;/p&gt;
 
-&lt;p&gt;    4.2 集成Disqus评论模块&lt;/p&gt;
+&lt;p&gt;    4.2 利用Google Analytic监控你的站点&lt;/p&gt;
 
-&lt;p&gt;    4.3 利用_data目录存储数据&lt;/p&gt;
+&lt;p&gt;    4.3 集成Disqus评论模块&lt;/p&gt;
+
+&lt;p&gt;    4.4 利用_data目录存储数据&lt;/p&gt;
 
 &lt;p&gt;（内容可能会多次修改，欢迎常来刷新。如果您觉得文章有用，请捐助我，让我做得更好&lt;a href=&quot;http://127.0.0.1:4000/donate/index.html&quot;&gt;给大漠捐助&lt;/a&gt;）&lt;/p&gt;</content><author><name>大漠穷秋</name></author><summary type="html">1 前置知识</summary></entry><entry><title type="html">我如何看待大学计算机教育</title><link href="http://localhost:4000/nontech/2017/06/29/%E6%88%91%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E8%82%B2.html" rel="alternate" type="text/html" title="我如何看待大学计算机教育" /><published>2017-06-29T13:01:29+08:00</published><updated>2017-06-29T13:01:29+08:00</updated><id>http://localhost:4000/nontech/2017/06/29/%E6%88%91%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E8%82%B2</id><content type="html" xml:base="http://localhost:4000/nontech/2017/06/29/%E6%88%91%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%A7%E5%AD%A6%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%95%99%E8%82%B2.html">&lt;p&gt;【这篇文章首先发在掘金平台上面，看起来反响比较大，有很多赞，也有很多踩的。所以，我把这篇文章也备存到这里来。原文标题是“炮灰都不如，我们如何看待大学计算机教育”，这里把主语改成“我”，表示只是个人看法。】&lt;/p&gt;
 
