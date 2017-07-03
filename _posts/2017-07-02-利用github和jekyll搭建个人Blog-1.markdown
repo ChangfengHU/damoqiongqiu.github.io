@@ -15,7 +15,7 @@ categories: jekyll
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.2 <a href="http://damoqiongqiu.github.io/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-4.html">注册github账号并创建项目</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.3 安装Jekyll
+&nbsp;&nbsp;&nbsp;&nbsp;2.3 <a href="http://damoqiongqiu.github.io/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-5.html">安装配置Jekyll</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.4 选择一款你喜欢的Markdown编辑器
 
@@ -29,9 +29,9 @@ categories: jekyll
 
 4 高级玩法
 
-&nbsp;&nbsp;&nbsp;&nbsp;4.1 定制自己的样式
+&nbsp;&nbsp;&nbsp;&nbsp;4.1 完全定制自己的样式
 
-&nbsp;&nbsp;&nbsp;&nbsp;4.2 利用Google Analytic监控你的站点
+&nbsp;&nbsp;&nbsp;&nbsp;4.2 利用Google Analytics监控你的站点
 
 &nbsp;&nbsp;&nbsp;&nbsp;4.3 集成Disqus评论模块
 
