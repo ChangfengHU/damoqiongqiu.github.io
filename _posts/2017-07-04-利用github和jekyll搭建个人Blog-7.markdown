@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "7-提交第一篇文章"
+title:  "6-提交第一篇文章"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-04 10:44:24 +0800

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "6-选择一款你喜欢的Markdown编辑器"
+title:  "5-选择一款你喜欢的Markdown编辑器"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-04 10:19:10 +0800
