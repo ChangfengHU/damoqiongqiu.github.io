@@ -9,53 +9,53 @@ categories: jekyll
 
 这颗星球上有一个神奇的网站叫<a href="https://github.com/" target="_blank">github</a>，它是男人的乐园，女人的噩梦。这么好的网站，你一定想要一个账号对不对？
 
-<img src="{{ "/assets/img/jekyll-4/github-register.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/github-register.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 注册成功之后Sign in（登录）进去，点击Your profile菜单到你自己的用户资料页去看看都有什么内容：
 
-<img src="{{ "/assets/img/jekyll-4/github-yourprofile.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/github-yourprofile.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 我目前的资料页是这样的：
 
-<img src="{{ "/assets/img/jekyll-4/my-profile.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/my-profile.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 好了，这一段不重要，只是给你show一下我的资料而已，万一有人想Follow我呢，对吧？
 
 点击New Repository菜单，进入创建仓库界面，**下面的内容请看仔细**：
 
-<img src="{{ "/assets/img/jekyll-4/new-repo.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/new-repo.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
-<img src="{{ "/assets/img/jekyll-4/repo-config.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/repo-config.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 我这里有错误提示，因为我已经创建过同名的仓库啦！
 
 创建完成之后，进入项目主页，就像这样：
 
-<img src="{{ "/assets/img/jekyll-4/my-repo.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/my-repo.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 当然，我这儿已经有一些内容了，你的仓库里面这时候应该只有一个README.md文件，其它什么都没有才对。
 
 下一步，用小乌龟把这个项目克隆到你本地去，在项目主页上点这里：
 
-<img src="{{ "/assets/img/jekyll-4/clone-menu.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/clone-menu.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 然后在你的电脑里面任意选择一个目录用来放内容，在任意空白处右键，选择"Git clone"：
 
-<img src="{{ "/assets/img/jekyll-4/git-clone.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/git-clone.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 看到Success了不？说明克隆成功，这样仓库的内容就到你本地了：
 
-<img src="{{ "/assets/img/jekyll-4/clone-success.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/clone-success.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 接下来测试一下commit和push。
 
 用你机器上的任意编辑器打开项目根目录下的README.md，如果没有这个文件，你可以手动创建一个，随意输入一些内容，然后在项目根目录里面任意空白处右键，选择Git commit->"master"这个菜单，弹出以下界面：
 
-<img src="{{ "/assets/img/jekyll-4/git-commit.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/git-commit.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 commit完成之后，再次在空白处右键：
 
-<img src="{{ "/assets/img/jekyll-4/git-push.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/git-push.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 操作完成之后，你刚才修改的内容就被push到仓库里面去啦！
 

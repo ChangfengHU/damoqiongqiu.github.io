@@ -25,15 +25,15 @@ git是一个“版本控制”工具。
 
 如果你是新手，推荐直接下载这个exe文件：
 
-<img src="{{ "/assets/img/jekyll-3/download-git.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-3/download-git.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 它就是一个普通的“软件”，你会装软件的，对不对？
 
-<img src="{{ "/assets/img/jekyll-3/git-setup.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-3/git-setup.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 装好之后，打开你机器上的终端，Windows上叫“命令提示符”，在里面敲git试试，如果出现了这样的内容，说明安装成功了：
 
-<img src="{{ "/assets/img/jekyll-3/cmd-git.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-3/cmd-git.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 可是我不喜欢这样的命令行界面啊！
 
@@ -41,13 +41,13 @@ git是一个“版本控制”工具。
 
 点击<a href="https://download.tortoisegit.org/tgit/" target="_blank">这个链接</a>，选择你需要的版本下载下来。它也是一个普通的“软件”，所以你会安装的，对不对？
 
-<img src="{{ "/assets/img/jekyll-3/tortoisegit-install.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-3/tortoisegit-install.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 Tortoise的意思是“乌龟”，发音[ˈtɔrtəs]，知道为啥叫它“小乌龟”了不？因为它特么名字就是“乌龟”啊！
 
 安装完小乌龟之后，在你的桌面的任意空白位置右键，你会看到多出来几个和小乌龟相关的菜单：
 
-<img src="{{ "/assets/img/jekyll-3/tortoise-menu.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-3/tortoise-menu.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 这就说明git和小乌龟都安装成功了！
 

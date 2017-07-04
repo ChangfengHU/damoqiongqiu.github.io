@@ -3,7 +3,6 @@ layout: page
 title: ""
 permalink: /social/
 ---
-
 <div class="list-group">
     <li class="list-group-item justify-content-between">
         <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8db5ed802cbddbf6432d7ba7dc4f2a316be020442491eb41cbfb1a12434e8cc7"><i class="fa fa-qq" aria-hidden="true"></i> Angular 1区:286047042</a>
@@ -22,3 +21,5 @@ permalink: /social/
         <span class="badge badge-default badge-pill">（将满）</span>
     </li>
 </div>
+<br/>
+<h4>请不要重复加群，定期清理。</h4>

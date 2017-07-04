@@ -17,11 +17,11 @@ categories: jekyll
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.3 <a href="http://damoqiongqiu.github.io/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-5.html">安装配置Jekyll</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.4 选择一款你喜欢的Markdown编辑器
+&nbsp;&nbsp;&nbsp;&nbsp;2.4 <a href="http://damoqiongqiu.github.io/jekyll/2017/07/04/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-6.html">选择一款你喜欢的Markdown编辑器</a>
 
 3 基本玩法
 
-&nbsp;&nbsp;&nbsp;&nbsp;3.1 提交第一篇文章
+&nbsp;&nbsp;&nbsp;&nbsp;3.1 <a href="http://damoqiongqiu.github.io/jekyll/2017/07/04/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-7.html">提交第一篇文章</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;3.2 修改已经发布的文章
 

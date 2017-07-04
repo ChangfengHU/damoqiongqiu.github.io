@@ -16,7 +16,7 @@ published: true
 
 ### **什么是Jekyll？**
 
-<img src="{{ "/assets/img/jekyll-5/jekyll-github.jpg" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-5/jekyll-github.jpg" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 简而言之，Jekyll是一款静态网页生成器，它是基于Ruby开发的。
 
@@ -48,7 +48,7 @@ Jekyll是基于Ruby开发的，所以你需要先把Ruby和RubyGems装好，请�
 
 安装完成之后，打开命令行测试一下有没有装成功。
 
-<img src="{{ "/assets/img/jekyll-5/install-ruby.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-5/install-ruby.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 如果没有报错，说明Ruby环境OK。
 
@@ -66,7 +66,15 @@ bundle exec jekyll serve
 ```
 打开你的浏览器，访问http://127.0.0.1:4000/ ，看到以下页面说明一切都OK：
 
-<img src="{{ "/assets/img/jekyll-5/jekyll-welcome.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-5/jekyll-welcome.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
+
+在你关机之后，下次需要再次启动jekyll继续编写文章的时候，请这样做：
+
+```ruby
+cd myblog
+
+bundle exec jekyll serve
+```
 
 ### **把代码提交到你的github主页上去**
 
@@ -74,7 +82,7 @@ bundle exec jekyll serve
 
 在上一篇<a href="http://damoqiongqiu.github.io/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-4.html">3-注册github账号并创建项目</a>中，你已经在github上创建了项目，并且克隆到了本地。那么，请把myblog目录里面Jekyll自动生成的所有内容全部复制一份，粘贴过去吧！
 
-<img src="{{ "/assets/img/jekyll-5/jekyll-github-repo.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-5/jekyll-github-repo.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 注意，把.sass-cache和_site这两个目录添加到.gitignore文件里面去，目的是告诉git不要把这两个目录里面的内容推送到github上去，这是你本地用的，github不需要这些。如果你把_site目录推送到github仓库，github就不会自动帮你构建了。
 
@@ -88,11 +96,11 @@ _site
 
 好了，到这里为止，你可以把代码推送到github仓库去了，还记得怎么commit和push吧？忘了的话请参考下图：
 
-<img src="{{ "/assets/img/jekyll-4/git-commit.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/git-commit.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
-<img src="{{ "/assets/img/jekyll-4/git-push.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded float-left"/>
+<img src="{{ "/assets/img/jekyll-4/git-push.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
-OK，等传输完成之后，去你的github仓库看看文件是不是都已经提交上来了。接下来打开你自己的个人首页，刷新看看有没有内容http://你刚才注册的名字.github.io
+OK，等传输完成之后，去你的github仓库看看文件是不是都已经提交上来了。接下来打开你自己的个人首页，刷新看看有没有内容  http://你刚才注册的名字.github.io
 
 注意，如果你是第一次push，github可能会等10分钟之后才会帮你构建，后续的所有push都会立即构建，所以如果现在没有内容的话，等10分钟再来刷新一下吧。
 
