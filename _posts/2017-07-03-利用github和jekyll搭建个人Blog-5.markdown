@@ -78,7 +78,7 @@ bundle exec jekyll serve
 
 ### **把代码提交到你的github主页上去**
 
-你本地的环境已经OK了，来尝试一下把内容推动到github上去吧。
+你本地的环境已经OK了，来尝试一下把内容推送到github上去吧。
 
 在上一篇<a href="http://damoqiongqiu.github.io/jekyll/2017/07/03/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-4.html">3-注册github账号并创建项目</a>中，你已经在github上创建了项目，并且克隆到了本地。那么，请把myblog目录里面Jekyll自动生成的所有内容全部复制一份，粘贴过去吧！
 

@@ -29,7 +29,7 @@ categories: jekyll update
 ---
 ```
 
-这个看起来的头部内容是一种叫做YAML的格式，在把你的markdown文件转换成HTML的过程中，Jekyll会检查这个头部的声明，做一些必要的处理。
+这个看起来有点儿奇怪的头部内容是一种叫做YAML的格式头，在把你的markdown文件转换成HTML的过程中，Jekyll会检查这个头部的声明，做一些必要的处理。
 
 除了这个头部声明之外，接下来你可以随意编写自己的内容了，遵守Markdown格式的规范即可。忘了Markdown格式应该怎么写了？再打开这篇文档看看<a href="http://www.appinn.com/markdown/" target="_blank">http://www.appinn.com/markdown/</a>
 
