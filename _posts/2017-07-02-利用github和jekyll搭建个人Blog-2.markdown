@@ -5,6 +5,7 @@ author: "大漠穷秋"
 comments: true
 date:   2017-07-02 15:35:29 +0800
 categories: jekyll
+excerpt: 利用Github和Jekyll搭建免费个人Blog所需要的前置知识
 ---
 
 除了要会使用键盘和鼠标之外，这个小系列文章不需要您有任何其它任何前置知识。因此，即使您是文科生，也可以读懂并上手。

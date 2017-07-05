@@ -25,6 +25,7 @@ google_analytics: UA-101757474-1
 markdown: kramdown
 plugins_dir:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

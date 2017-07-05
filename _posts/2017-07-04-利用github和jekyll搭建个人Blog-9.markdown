@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "8-修改内置的皮肤和默认参数"
+title:  "8-修改Jekyll内置的皮肤和默认参数"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-05 09:41:06 +0800
 categories: jekyll
 published: true
+excerpt: 如何修改Jekyll内置的皮肤和一些默认的参数。
 ---
 
 虽然Github默认能支持好多皮肤，但是它们看起来都很简陋的样子，好些地方都不满足我们强大的审美需求，我们来看看怎么改一改这些皮肤。

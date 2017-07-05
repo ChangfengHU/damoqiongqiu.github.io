@@ -6,6 +6,7 @@ comments: true
 date:   2017-07-04 10:44:24 +0800
 categories: jekyll
 published: true
+excerpt: 利用Jekyll编写第一篇文章，并推送到Github。
 ---
 
 <img src="{{ "/assets/img/jekyll-7/article-1.jpg" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>

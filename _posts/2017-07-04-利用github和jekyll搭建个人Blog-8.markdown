@@ -6,6 +6,7 @@ comments: true
 date:   2017-07-04 20:40:57 +0800
 categories: jekyll
 published: true
+excerpt: 如何安装、配置Jekyll新的皮肤。
 ---
 
 <img src="{{ "/assets/img/jekyll-7/article-3.jpg" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>

@@ -6,6 +6,7 @@ comments: true
 date:   2017-07-04 10:19:10 +0800
 categories: jekyll
 published: true
+excerpt: 选择一款你喜欢的Markdown编辑器，强烈推荐使用VS Code
 ---
 
 在编写技术文档方面，Markdown格式的流行度非常高。如果您还没有用过，是时候学一下了，这年头你要是不会Markdown都不好意思出去跟人说话。请点这个链接看看吧，很干净的一篇文档<a href="http://www.appinn.com/markdown/" target="_blank">http://www.appinn.com/markdown/</a>。

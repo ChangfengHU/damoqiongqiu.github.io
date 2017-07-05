@@ -5,6 +5,7 @@ author: "大漠穷秋"
 comments: true
 date:   2017-07-03 07:35:29 +0800
 categories: jekyll
+excerpt: 如何安装git和小乌龟
 ---
 
 什么是git？

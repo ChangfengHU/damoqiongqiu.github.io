@@ -5,6 +5,7 @@ author: "大漠穷秋"
 comments: true
 date:   2017-07-03 08:54:29 +0800
 categories: jekyll
+excerpt: 如何注册github账号并创建仓库
 ---
 
 这颗星球上有一个神奇的网站叫<a href="https://github.com/" target="_blank">github</a>，它是男人的乐园，女人的噩梦。这么好的网站，你一定想要一个账号对不对？

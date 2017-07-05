@@ -5,6 +5,7 @@ author: "大漠穷秋"
 comments: true
 date:   2017-07-02 15:35:29 +0800
 categories: jekyll
+excerpt: 《利用github和jekyll搭建免费的个人Blog》整体目录
 ---
 
 1 <a href="http://damoqiongqiu.github.io/jekyll/2017/07/02/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-2.html">前置知识</a>
