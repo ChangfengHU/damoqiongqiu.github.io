@@ -57,6 +57,8 @@ Jul 4,2017
 
 请把Gemfile这个文件里的gem "minima", "~> 2.0"这一行给注释掉，同时把_config.yml里面的theme: minima这一行给删掉。
 
+Jekyll还有很多配置项，如果你想探索更多玩法，请参考<a href="http://jekyll.com.cn/docs/configuration/" target="_blank">Jekyll中文网上的这篇教程。</a>
+
 接下来你可以自己自由发挥了，多改一些内容看看会发生什么，我祝你幸福哦！
 
 （内容可能会多次修改，欢迎常来刷新。如果您觉得文章有用，请捐助我，让我做得更好<a href="http://damoqiongqiu.github.io/donate/index.html">给大漠捐助</a>）

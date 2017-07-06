@@ -11,7 +11,9 @@ excerpt: 如何安装Jekyll并进行基本的配置
 
 **非常重要：如果您是开发者，或者英文水平尚可，强烈推荐您阅读官方的原版文档：**
 
-- <a href="https://jekyllrb.com/" target="_blank">jekyll官方主页</a>
+- <a href="https://jekyllrb.com/" target="_blank">Jekyll官方主页（英文版）</a>
+
+- <a href="http://jekyllcn.com/" target="_blank">Jekyll中文网</a>
 
 - <a href="https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/" target="_blank">github官方的帮助文档</a>
 

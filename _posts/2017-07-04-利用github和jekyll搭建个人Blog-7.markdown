@@ -13,7 +13,7 @@ excerpt: 利用Jekyll编写第一篇文章，并推送到Github。
 
 你可能已经发现了，所有的文章都应该放在_posts这个目录里面，这样Jekyll才会自动帮你把它们编译成html。
 
-Jekyll对项目的目录结构做了规范，我们最好根据它的规范来做，避免出现意外的情况。除了_posts之外，Jekyll还定义了很多其它的目录，你可以把这些目录看成是写死的，而且名字是不能改的，改了Jekyll就不认识了。详细的目录结构定义请看这里：[Jekyll目录结构定义](https://jekyllrb.com/docs/structure/)
+Jekyll对项目的目录结构做了规范，我们最好根据它的规范来做，避免出现意外的情况。除了_posts之外，Jekyll还定义了很多其它的目录，你可以把这些目录看成是写死的，而且名字是不能改的，改了Jekyll就不认识了。详细的目录结构定义请看这里：[Jekyll目录结构定义](http://jekyllcn.com/docs/structure/)
 
 对于这些目录的玩法，我会一点一点教会你，现在我们只关注_posts这个目录。
 
