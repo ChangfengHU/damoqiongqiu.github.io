@@ -30,14 +30,14 @@ excerpt: 《利用github和jekyll搭建免费的个人Blog》整体目录
 
 4 高级玩法
 
-&nbsp;&nbsp;&nbsp;&nbsp;4.1 彻底自己来写样式
+&nbsp;&nbsp;&nbsp;&nbsp;4.1 <a href="http://damoqiongqiu.github.io/jekyll/2017/07/06/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-10.html">用Bootstrap完全自己实现外观</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;4.2 利用Google Analytics监控你的站点
 
 &nbsp;&nbsp;&nbsp;&nbsp;4.3 集成Disqus评论模块
 
-&nbsp;&nbsp;&nbsp;&nbsp;4.4 做好SEO让搜索引擎更好地索引你的站点
+&nbsp;&nbsp;&nbsp;&nbsp;4.4 利用_data目录存储数据
 
-&nbsp;&nbsp;&nbsp;&nbsp;4.5 利用_data目录存储数据
+&nbsp;&nbsp;&nbsp;&nbsp;4.5 做好SEO让搜索引擎更好地索引你的站点
 
 （内容可能会多次修改，欢迎常来刷新。如果您觉得文章有用，请捐助我，让我做得更好<a href="http://damoqiongqiu.github.io/donate/index.html">给大漠捐助</a>）
