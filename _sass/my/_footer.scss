@@ -1,0 +1,17 @@
+.bd-footer {
+    padding: 4rem 0;
+    margin-top: 4rem;
+    font-size: 85%;
+    background-color: #f7f7f7;
+    .bd-footer-links {
+        padding-left: 0;
+        margin-bottom: 1rem;
+    }
+    li {
+        display: inline-block;
+    }
+}
+
+.text-muted {
+    color: #636c72!important;
+}
