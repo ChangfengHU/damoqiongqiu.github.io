@@ -32,7 +32,7 @@ excerpt: 《利用github和jekyll搭建免费的个人Blog》整体目录
 
 &nbsp;&nbsp;&nbsp;&nbsp;4.1 <a href="http://damoqiongqiu.github.io/jekyll/2017/07/06/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-10.html">用Bootstrap完全自己实现外观</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;4.2 利用Google Analytics监控你的站点
+&nbsp;&nbsp;&nbsp;&nbsp;4.2 <a href="http://damoqiongqiu.github.io/jekyll/2017/07/06/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-11.html">利用Google Analytics监控你的Jekyll站点</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;4.3 集成Disqus评论模块
 
