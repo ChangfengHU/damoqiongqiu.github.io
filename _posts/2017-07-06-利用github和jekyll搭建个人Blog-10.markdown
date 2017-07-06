@@ -59,6 +59,20 @@ Jekyll当前的版本是用Sass来做CSS预编译的，关于Sass的基本概念
 
 <img src="{{ "/assets/img/jekyll-10/my-2.jpg" | relative_url }}" alt="示例" max-width="100%" class="img-thumbnail rounded"/>
 
+```css
+body{
+    font-family: "Microsoft Yahei","微软雅黑",SimSun,sans-serif !important; 
+    background-color: #F7F7F7;
+}
+input, label, select, option, textarea, button, fieldset, legend { 
+    font-family: "Microsoft Yahei","微软雅黑",SimSun,sans-serif !important;
+}
+.main-container{
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+```
+
 改完之后启动你本地的Jekyll：
 
 ```ruby
