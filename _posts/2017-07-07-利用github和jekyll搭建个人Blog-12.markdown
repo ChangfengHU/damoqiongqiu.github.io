@@ -69,4 +69,6 @@ OK，那我们要做的第一件事情，就是拿到这个shortname。
 
 Disqus还有很多配置项，你自己到它的Admin页面上去随意改改，看看都有些什么效果。
 
+如果你的内容专门针对国内用户，可以尝试一些Disqus的替代品，比如“多说”。
+
 （内容可能会多次修改，欢迎常来刷新。如果您觉得文章有用，请捐助我，让我做得更好<a href="http://damoqiongqiu.github.io/donate/index.html">给大漠捐助</a>）
