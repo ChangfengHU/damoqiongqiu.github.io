@@ -72,7 +72,7 @@ git clone https://github.com/damoqiongqiu/damoqiongqiu.github.io.git
 
 注意改成你自己项目的路径。
 
-也可以通过SourceTree的图形界面来克隆代码，看你自己的喜好。当然，commit和push的操作也都是在字符终端下面完成的。如果你还不太熟悉字符终端下面操作git的命令，请查看<a href="http://git.oschina.net/progit/" target="_blank">这篇git中文文档</a>。
+也可以通过SourceTree的图形界面来克隆代码，看你自己的喜好。当然，commit和push的操作也都是在字符终端下面完成的。如果你还不太熟悉字符终端下面操作git的命令，请查看<a href="http://git.oschina.net/progit/" target="_blank">这篇progit中文教程</a>。
 
 **刷新看效果**
 
