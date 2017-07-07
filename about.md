@@ -4,11 +4,21 @@ title: ""
 permalink: /about/
 ---
 
+<img src="{{ "/assets/img/angular-damo/BIO-Angular.jpg" | relative_url }}" alt="讲课照片" width="100%" class="img-thumbnail rounded"/>
+
+**想雇佣大漠**
+
 如果您想雇佣我，请查看我的简历：<a href="{{ "/assets/pdf/zhangxiaofei.pdf" | relative_url }}" target="_blank">我的简历</a>
 
-**外包勿扰，猎头勿扰。**
+外包勿扰，猎头勿扰。
 
-<img src="{{ "/assets/img/angular-damo/BIO-Angular.jpg" | relative_url }}" alt="讲课照片" width="100%" class="img-thumbnail rounded"/>
+**想请大漠来演讲**
+
+<img src="{{ "/assets/img/angular-damo/my_wechat.jpg" | relative_url }}" alt="讲课照片" class="img-thumbnail rounded"/>
+
+此微信号只谈公事，不解答技术问题，交流技术问题请加技术交流群。
+
+**演讲照片（部分）**
 
 <img src="{{ "/assets/img/angular-damo/29.jpg" | relative_url }} " alt="讲课照片" width="100%" class="img-thumbnail rounded"/>
 
