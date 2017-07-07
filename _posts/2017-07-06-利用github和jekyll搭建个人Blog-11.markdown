@@ -4,7 +4,7 @@ title:  "10-利用Google Analytics监控你的Jekyll站点"
 author: "大漠穷秋"
 comments: true
 date:   2017-07-06 21:44:06 +0800
-categories: jekyll
+category: "文科生都能读懂的Jekyll中文教程"
 published: true
 excerpt: 利用Google Analytics监控你的站点
 ---
