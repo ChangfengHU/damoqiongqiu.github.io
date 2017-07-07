@@ -43,20 +43,20 @@ Jekyll最初是由Github的联合创始人Tom Preson Warner开发的，我猜这
 <a href="https://github.com/showcases/github-pages-examples" target="_blank"> GitHub Pages examples</a>
 
 ### **安装并配置运行环境**
-Jekyll是基于Ruby开发的，所以你需要先把Ruby和RubyGems装好，请分别点以下两个链接下载并安装：
+Jekyll是基于Ruby开发的，所以你需要先把Ruby和RubyGems装好。请分别点以下两个链接，根据你的操作系统类型，选择下载并安装：
 
 - <a href="https://www.ruby-lang.org/zh_cn/downloads/" target="_blank">Ruby官方下载页</a>
 
 - <a href="https://rubygems.org/pages/download/" target="_blank">RubyGems下载页</a>
 
-安装完成之后，打开命令行测试一下有没有装成功。
+安装完成之后，打开终端测试一下有没有装成功。
 
 <img src="{{ "/assets/img/jekyll-5/install-ruby.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
 如果没有报错，说明Ruby环境OK。
 
 ### **用Jekyll创建第一个项目**
-在命令行依次执行以下命令：
+在终端依次执行以下命令：
 
 ```ruby
 gem install jekyll bundler

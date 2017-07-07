@@ -36,11 +36,13 @@ excerpt: 如何注册github账号并创建仓库
 
 当然，我这儿已经有一些内容了，你的仓库里面这时候应该只有一个README.md文件，其它什么都没有才对。
 
-下一步，用小乌龟把这个项目克隆到你本地去，在项目主页上点这里：
+下一步，把这个项目克隆到你本地去，在项目主页上点这里：
 
 <img src="{{ "/assets/img/jekyll-4/clone-menu.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
-然后在你的电脑里面任意选择一个目录用来放内容，在任意空白处右键，选择"Git clone"：
+**Windows用户**
+
+在你的电脑里面任意选择一个目录，在任意空白处右键，选择"Git clone"：
 
 <img src="{{ "/assets/img/jekyll-4/git-clone.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
 
@@ -60,7 +62,21 @@ commit完成之后，再次在空白处右键：
 
 操作完成之后，你刚才修改的内容就被push到仓库里面去啦！
 
-不信？去你的项目主页上刷新一下，确认一下刚才的内容有没有进来。
+**MAC或Linux用户**
+
+可以用字符终端来把项目代码克隆到本地：
+
+```ruby
+git clone https://github.com/damoqiongqiu/damoqiongqiu.github.io.git
+```
+
+注意改成你自己项目的路径。
+
+也可以通过SourceTree的图形界面来克隆代码，看你自己的喜好。当然，commit和push的操作也都是在字符终端下面完成的。如果你还不太熟悉字符终端下面操作git的命令，请查看<a href="http://git.oschina.net/progit/" target="_blank">这篇git中文文档</a>。
+
+**刷新看效果**
+
+把代码推送到Github之后，去你的项目主页上刷新一下，确认一下刚才的内容有没有进来。
 
 现在，你可以打开你的主页看看有没有内容，http://你刚才注册的名字.github.io
 

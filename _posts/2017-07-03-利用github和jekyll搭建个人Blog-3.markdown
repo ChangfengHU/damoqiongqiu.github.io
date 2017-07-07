@@ -24,6 +24,8 @@ git是一个“版本控制”工具。
 
 请点击<a href="https://npm.taobao.org/mirrors/git-for-windows" target="_blank">git的淘宝镜像</a>下载你需要的版本，建议安装最新版。**注意，官方的下载源被Qiang掉了，如果你知道如何爬出去，可以去<a href="https://git-scm.com/downloads" target="_blank">官方的源</a>下载，界面儿好看点。**
 
+**Windows用户**
+
 如果你是新手，推荐直接下载这个exe文件：
 
 <img src="{{ "/assets/img/jekyll-3/download-git.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
@@ -52,5 +54,14 @@ Tortoise的意思是“乌龟”，发音[ˈtɔrtəs]，知道为啥叫它“小
 
 这就说明git和小乌龟都安装成功了！
 
+**MAC或者Linux用户**
+
+MAC或者Linux用户请按照<a href="https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%AE%89%E8%A3%85-Git" target="_blank">这篇中文文档</a>来安装git。
+
+在MAC上面，SourceTree是一个很好用的图形界面工具，请<a href="https://www.sourcetreeapp.com/" target="_blank">点这里</a>下载安装。
+
+<img src="{{ "/assets/img/jekyll-3/git-sourcetree.png" | relative_url }}" alt="示例" width="100%" class="img-thumbnail rounded"/>
+
+SourceTree在Windows上也能用。
 
 （内容可能会多次修改，欢迎常来刷新。如果您觉得文章有用，请捐助我，让我做得更好<a href="http://damoqiongqiu.github.io/donate/index.html">给大漠捐助</a>）
