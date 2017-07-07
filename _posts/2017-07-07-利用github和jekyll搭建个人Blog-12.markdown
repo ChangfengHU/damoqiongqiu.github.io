@@ -23,7 +23,7 @@ OK，那我们要做的第一件事情，就是拿到这个shortname。
 
 **注册Disqus并拿到你的shortname**
 
-<a href="https://disqus.com/" target="_blank">点击这里</a>注册disqus账号，请以下图示一步一步操作：
+<a href="https://disqus.com/" target="_blank">点击这里</a>注册disqus账号，请按照以下图示一步一步操作：
 
 <img src="{{ "/assets/img/jekyll-12/disqus-2.png" | relative_url }}" alt="示例" max-width="100%" class="img-thumbnail rounded"/>
 
@@ -33,7 +33,7 @@ OK，那我们要做的第一件事情，就是拿到这个shortname。
 
 <img src="{{ "/assets/img/jekyll-12/disqus-5.png" | relative_url }}" alt="示例" max-width="100%" class="img-thumbnail rounded"/>
 
-注意上图里面的Websit Name，这个名字就是等会要用到的shortname，所以请不要乱起名字啊，起个好点儿的名字，最好带点儿艺术气息？
+注意上图里面的Website Name，这个名字就是等会要用到的shortname，所以请不要乱起名字啊，起个好点儿的名字，最好带点儿艺术气息？
 
 <img src="{{ "/assets/img/jekyll-12/disqus-6.png" | relative_url }}" alt="示例" max-width="100%" class="img-thumbnail rounded"/>
 
