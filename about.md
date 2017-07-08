@@ -6,6 +6,16 @@ permalink: /about/
 
 <img src="{{ "/assets/img/angular-damo/BIO-Angular.jpg" | relative_url }}" alt="讲课照片" width="100%" class="img-thumbnail rounded"/>
 
+**我出版过的书籍**
+
+<img src="{{ "/assets/img/books/ext.png" | relative_url }}" alt="讲课照片" width="360" class="img-thumbnail rounded"/>
+
+<img src="{{ "/assets/img/books/as3.png" | relative_url }}" alt="讲课照片" width="360" class="img-thumbnail rounded"/>
+
+<img src="{{ "/assets/img/books/ng1.png" | relative_url }}" alt="讲课照片" width="360" class="img-thumbnail rounded"/>
+
+<img src="{{ "/assets/img/books/ng2.png" | relative_url }}" alt="讲课照片" width="360" class="img-thumbnail rounded"/>
+
 **想雇佣大漠**
 
 如果您想雇佣我，请查看我的简历：<a href="{{ "/assets/pdf/zhangxiaofei.pdf" | relative_url }}" target="_blank">我的简历</a>
