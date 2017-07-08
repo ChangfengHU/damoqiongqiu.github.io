@@ -38,7 +38,7 @@ excerpt: 《利用Jekyll和Github搭建免费的个人Blog》整体目录
 
 &nbsp;&nbsp;&nbsp;&nbsp;4.4 <a href="http://damoqiongqiu.github.io/%E6%96%87%E7%A7%91%E7%94%9F%E9%83%BD%E8%83%BD%E8%AF%BB%E6%87%82%E7%9A%84jekyll%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/2017/07/07/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-13.html">为你的Jekyll站点添加分类</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;4.5 Jekyll集成lunr.js进行全文搜索
+&nbsp;&nbsp;&nbsp;&nbsp;4.5 <a href="http://damoqiongqiu.github.io/%E6%96%87%E7%A7%91%E7%94%9F%E9%83%BD%E8%83%BD%E8%AF%BB%E6%87%82%E7%9A%84jekyll%E4%B8%AD%E6%96%87%E6%95%99%E7%A8%8B/2017/07/08/%E5%88%A9%E7%94%A8github%E5%92%8Cjekyll%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BABlog-14.html">Jekyll集成lunr.js进行全文搜索</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;4.6 利用_data目录存储数据
 

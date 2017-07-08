@@ -20,9 +20,20 @@ layout: default
   {% endif %}
 {% endfor %}
 
+
 <div class="row">
   <div class="col-md-9">
-    <div class="list-group">
+      <form action="/search.html" method="get">
+        <div class="form-group row">
+          <div class="col-md-11">
+            <input type="text" class="form-control" id="search-box" name="query" placeholder="请输入关键字">
+          </div>
+          <div class="col-md-1">
+            <button type="submit" class="btn btn-success float-sm-right">搜索</button>
+          </div>
+        </div>
+      </form>
+      <div class="list-group">
         {% assign date_format = site.minima.date_format | default: "%Y-%m-%d %H:%M:%S" %}
         {% for ct in cats %}
             <li class="list-group-item list-group-item-info" id="{{ ct | slugify }}"><strong>{{ ct }}</strong></li>
@@ -37,7 +48,7 @@ layout: default
                 {% endif %}
             {% endfor %}
         {% endfor %}
-    </div>
+      </div>
   </div>
   <div class="col-md-3">
   </div>

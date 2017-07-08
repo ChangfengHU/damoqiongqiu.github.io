@@ -68,7 +68,7 @@ layout: default
 
 然后，修改你的index.md，改成layout: category 。
 
-接着，给你的，每一篇文章头部加一个category配置项，就像这样：
+接着，给你的每一篇文章头部加一个category配置项，就像这样：
 
 <img src="{{ "/assets/img/jekyll-13/category-2.png" | relative_url }}" alt="示例" max-width="100%" class="img-thumbnail rounded"/>
 
