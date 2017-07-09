@@ -46,9 +46,9 @@ permalink: /members/
 
 ```
 
-启动你本地的Jekyll，访问http://127.0.0.1:4000/members/
+启动你本地的Jekyll，访问<a href="http://127.0.0.1:4000/members/" target="_blank">http://127.0.0.1:4000/members/</a>  ，你也可以点这个链接查看我提交到线上的效果<a href="http://damoqiongqiu.github.io/members/" target="_blank">http://damoqiongqiu.github.io/members/</a>
 
-你会看到这样的结果：
+运行效果如下：
 
 <img src="{{ "/assets/img/jekyll-15/data-1.png" | relative_url }}" alt="示例" max-width="100%" class="img-thumbnail rounded"/>
 
