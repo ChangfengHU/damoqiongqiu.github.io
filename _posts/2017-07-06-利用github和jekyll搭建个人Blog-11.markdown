@@ -63,6 +63,8 @@ excerpt: 利用Google Analytics监控你的站点
 
 <img src="{{ "/assets/img/jekyll-11/ga-8.png" | relative_url }}" alt="示例" max-width="100%" class="img-thumbnail rounded"/>
 
+如果你想了解关于Angular相关的技术点，请查看我发布的系列开源项目和免费视频教程：<a href="http://git.oschina.net/mumu-osc/NiceFish" target="_blank">NiceFish</a>
+
 **推送代码到gihub，然后登录GA查看效果**
 
 在得到了你自己的“跟踪ID”之后，把它配置到_config.yml里面：
