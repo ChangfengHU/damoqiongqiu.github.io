@@ -4,6 +4,7 @@ title: ""
 permalink: /social/
 ---
 <div class="list-group">
+    <li class="list-group-item list-group-item-info">QQ群</li>
     <li class="list-group-item justify-content-between">
         <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8db5ed802cbddbf6432d7ba7dc4f2a316be020442491eb41cbfb1a12434e8cc7"><i class="fa fa-qq" aria-hidden="true"></i> Angular-1区-丝绸之路:286047042</a>
         <span class="badge badge-default badge-pill">（满）</span>
@@ -24,7 +25,4 @@ permalink: /social/
         <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1293a6494fb306ea29d281e320a8f4ef82285fa5300f73118e6ff7a79ce76036"><i class="fa fa-qq" aria-hidden="true"></i>Angular-5区-楼兰:483016484</a>
         <span class="badge badge-default badge-pill">（将满）</span>
     </li>
-
 </div>
-<br/>
-<h4>请不要重复加群，定期清理。</h4>
