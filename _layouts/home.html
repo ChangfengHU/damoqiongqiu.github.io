@@ -4,17 +4,23 @@ layout: default
 <div class="row">
   <div class="col-md-9">
     <div class="list-group">
-      {% for post in site.posts %}
-        {% assign date_format = site.minima.date_format | default: "%Y-%m-%d %H:%M:%S" %}
-        <a href="{{ post.url | relative_url }}" class="list-group-item list-group-item-action flex-column align-items-start">
-          <div class="d-flex w-100 justify-content-between">
-            <h5 class="mb-1">{{ post.title | escape }}</h5>
-            <small>{{ post.date | date: date_format }}</small>
-          </div>
-        </a>  
+      {% for post in site.posts %} {% assign date_format = site.minima.date_format | default: "%Y-%m-%d %H:%M:%S" %}
+      <a href="{{ post.url | relative_url }}" class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-1">{{ post.title | escape }}</h5>
+          <small>{{ post.date | date: date_format }}</small>
+        </div>
+      </a>
       {% endfor %}
     </div>
   </div>
   <div class="col-md-3">
+    <div class="card" style="width: 20rem;">
+      <img class="card-img-top" src="assets/img/1500798521858.png" alt="Card image cap">
+      <div class="card-block">
+        <h4 class="card-title">Angular-5区-楼兰</h4>
+        <p class="card-text">这是第5个群，前面4个已经全部满了，请不要重复加群，以免收到重复的消息。</p>
+      </div>
+    </div>
   </div>
 </div>
