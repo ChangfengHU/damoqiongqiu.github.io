@@ -35,7 +35,7 @@ excerpt: Vue从Angular里面抄了哪些东西？
 
 这个表单里面有2个输入项，你最终想要的数据结构是这样的：
 
-    {userName:'damoqiongqiu',password:'03053311'}
+    {userName:'damoqiongqiu',password:'123456'}
 
 在没有双向数据绑定的日子里，以jQuery为例，你需要自己去一个一个获取输入项的值，然后再整理成一个JS对象，就像这样：
 
